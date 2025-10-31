@@ -1,6 +1,7 @@
 # ParametersEditor
 Редактор Parameters.json для настройки спавна предметов в игре SCUM
-![alt text](https://raw.githubusercontent.com/username/projectname/commit/img.png(https://github.com/AndreyGladchenko/ParametersEditor/blob/main/ParametersEditor.jpg))
+![ParametersEditor](https://github.com/user-attachments/assets/1ac1444c-abc9-40c8-b016-4072af6d969c)
+
 
 
 
