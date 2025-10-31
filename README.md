@@ -1,5 +1,6 @@
 # ParametersEditor
 Редактор Parameters.json для настройки спавна предметов в игре SCUM
+https://github.com/AndreyGladchenko/ParametersEditor/blob/main/ParametersEditor.jpg
 
 
 Позволяет редактировать Parameters.json (добавлять/удалять) для настройки спавна лута.
