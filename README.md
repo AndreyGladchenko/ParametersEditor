@@ -20,3 +20,5 @@
 Переименовываете его в Parameters.json и используете в игре (на сервере)
 
 Полная инструкция настройки спавна лута https://docs.google.com/document/d/1TIxj5OUnyrOvnXyEn3aigxLzTUQ-o-695luaaK2PTW0/edit?tab=t.0#heading=h.o4jyn6ezorng
+
+Для сборки (компиляции) файла в exe используйте команду pyinstaller --onefile --windowed --name "ParametersEditor" --icon=icon.ico main.py
